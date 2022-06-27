@@ -1,6 +1,6 @@
 # tiktok-scraper
 <div align="center">
-<img src="https://www.techfunnel.com/wp-content/uploads/2019/07/Graveyard2_red_notext.gif" align="center" style="width: 100%" />
+<img src="banner.png" align="center" style="width: 100%" />
 </div>  
   
 
