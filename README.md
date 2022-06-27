@@ -7,7 +7,7 @@
 ### <div align="center">This is just a simple Tiktok downloader 🗄️</div>  
   
 
-- **🐥 Nobiie ? just download and start draging [HERE](https://github.com/imcr1/justpdfunlocker/releases)**  
+- **🐥 Nobiie ? just download and start draging [HERE](banner.png)**  
   
 
 - 🧠 Are you geek ? Why don't you try adding list download [HERE](https://github.com/imcr1/justpdfunlocker/tree/main/src)
