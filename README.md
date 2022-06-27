@@ -10,7 +10,7 @@
 - **🐥 Nobiie ? just download and start draging [HERE](https://github.com/imcr1/tiktok-scraper/releases)**  
   
 
-- 🧠 Are you geek ? Why don't you try adding list download [HERE]((https://github.com/imcr1/tiktok-scraper/tree/main/src))
+- 🧠 Are you geek ? Why don't you try adding list download [HERE](https://github.com/imcr1/tiktok-scraper/tree/main/src)
   
 
 - ⚡ Fact : It is **Summer** 😎  
